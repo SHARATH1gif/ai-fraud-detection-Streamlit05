@@ -2,13 +2,13 @@
 
 ## 🔍 Overview
 This AI‑based system detects fraudulent credit card transactions using a **Random Forest Classifier**.  
-It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for balancing imbalanced datasets and delivers real‑time predictions through an interactive **Streamlit web app**.
+It applies  **SMOTE (Synthetic  Minority  Over ‑ sampling  Technique)** for balancing imbalanced datasets and delivers real‑time predictions through an interactive **Streamlit web app**.
 
 ## ⚙️ Features
-- Machine Learning model trained on real‑world data  
-- Class imbalance handled by SMOTE  
-- Interactive web interface for live predictions  
-- Model saved & loaded using Joblib  
+- Machine  Learning  model trained on real‑world data  
+- Class  imbalance  handled  by  SMOTE  
+- Interactive  web  interface  for  live  predictions  
+- Model  saved  &  loaded  using  Joblib  
 
 ## 🧰 Tech Stack / Libraries
 - **Python 3**
@@ -24,7 +24,7 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 
 ## 🧠 Model Performance
 - **Accuracy :** ≈ 99 %  
-- **High recall and precision for fraudulent transactions**  
+- **High  recall  and  precision  for  fraudulent  transactions**  
 - Confusion  matrix  shows  minimal  false  negatives  
 
 ## 🌍 Applications
@@ -35,8 +35,9 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 
 ## 💼 Author
 **Sharath Kumar D L**  
-- 📧 your‑sharathkumarlokesh@gmail.com  
+-  🔗 [LinkedIn](www.linkedin.com/in/sharath-kumar-d-l-66894a288)
 - 🌐 [GitHub Profile](https://github.com/SHARATH1gif)
+
 
 
 
