@@ -35,5 +35,6 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 
 ## 💼 Author
 **Sharath Kumar D L**  
-- 📧 your‑sharathkumarlokesh@.com  
+- 📧 your‑sharathkumarlokesh@gmail.com  
 - 🌐 [GitHub Profile](https://github.com/SHARATH1gif)
+
