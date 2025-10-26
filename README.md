@@ -19,7 +19,7 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 ## 🚀 How to Run
 1. Clone the repository  
 2. Install requirements  
-3. Start the app  
+3. Start  the  app  
 
 
 ## 🧠 Model Performance
@@ -37,5 +37,6 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 **Sharath Kumar D L**  
 - 📧 your‑sharathkumarlokesh@gmail.com  
 - 🌐 [GitHub Profile](https://github.com/SHARATH1gif)
+
 
 
