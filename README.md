@@ -25,18 +25,19 @@ It applies **SMOTE (Synthetic Minority Over‑sampling Technique)** for 
 ## 🧠 Model Performance
 - **Accuracy :** ≈ 99 %  
 - **High recall and precision for fraudulent transactions**  
-- Confusion matrix shows minimal false negatives  
+- Confusion  matrix  shows  minimal  false  negatives  
 
 ## 🌍 Applications
-- Credit‑card fraud detection for banks & FinTech  
-- E‑commerce fraud monitoring  
-- Insurance or tax anomaly detection  
-- Real‑time transaction verification systems  
+- Credit‑card  fraud  detection  for  banks & FinTech  
+- E‑commerce  fraud  monitoring  
+- Insurance  or  tax  anomaly  detection  
+- Real‑time  transaction  verification  systems  
 
 ## 💼 Author
 **Sharath Kumar D L**  
 - 📧 your‑sharathkumarlokesh@gmail.com  
 - 🌐 [GitHub Profile](https://github.com/SHARATH1gif)
+
 
 
 
